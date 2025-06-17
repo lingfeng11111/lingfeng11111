@@ -6,15 +6,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,css,sass,react,threejs,unity" />
     <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+    <img src="https://www.wkhub.com/wp-content/uploads/2018/12/TouchDesigner.png" height="48" />
   </a>
 </p>
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <kbd><img src="https://www.wkhub.com/wp-content/uploads/2018/12/TouchDesigner.png" height="48" /></kbd>
-    </td>
-    <td align="center">
-      <img src="https://th.bing.com/th/id/R.901957f3b43c33f4320bed4c8aaa721e?rik=5BhVywWaDpCX2g&pid=ImgRaw&r=0" height="60" />
-    </td>
-  </tr>
-</table>
