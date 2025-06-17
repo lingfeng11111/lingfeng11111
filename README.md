@@ -8,6 +8,6 @@
     <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
   </a>
   <br/>
-  <img src="https://www.wkhub.com/wp-content/uploads/2018/12/TouchDesigner.png" height="48" />
-  <img src="https://th.bing.com/th/id/R.901957f3b43c33f4320bed4c8aaa721e?rik=5BhVywWaDpCX2g&pid=ImgRaw&r=0" height="48" />
+  <img src="https://www.wkhub.com/wp-content/uploads/2018/12/TouchDesigner.png" height="48" style="border-radius: 8px;"/>
+  <img src="https://th.bing.com/th/id/R.901957f3b43c33f4320bed4c8aaa721e?rik=5BhVywWaDpCX2g&pid=ImgRaw&r=0" height="60" />
 </p>
