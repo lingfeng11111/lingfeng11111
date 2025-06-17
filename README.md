@@ -4,7 +4,7 @@
 ## 🚀 专业技能
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,threejs,unity" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,css,sass,react,threejs,unity" />
     <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
   </a>
 </p>
