@@ -5,8 +5,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,css,threejs,unity" />
-  </a>
-</p>
     <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
   </a>
 </p>
