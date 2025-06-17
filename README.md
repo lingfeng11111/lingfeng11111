@@ -1,4 +1,4 @@
-# 👋 你好，我是 [凌峰]
+# 👋 你好，我是 lingfeng11111
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
@@ -6,14 +6,19 @@
 
 ## 👨‍💻 关于我
 
-我是一名兼具设计与开发能力的全栈创意工作者。
-凭借对美术和编程实现的双重热爱，擅长将创意概念转化为数字视觉。
+我是一名兼具设计与开发能力的全栈创意工作者。凭借对视觉美学和技术实现的双重热爱，我擅长将创意概念转化为引人入胜的数字体验。我热衷于探索新技术，并将其应用到创新项目中。
 
 ## 🚀 专业技能
 
 ### 💻 开发技能
 
-- **前端开发**: React.js, CSS/SCSS, JavaScript, Three.js, WebGL
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,css,threejs,unity" />
+  </a>
+</p>
+
+- **前端开发**: React.js, CSS/SCSS, Three.js, WebGL
 - **图形编程**: Shader 开发 (GLSL), WebGL
 - **游戏开发**: Unity 3D
 - **交互设计**: TouchDesigner
@@ -23,6 +28,12 @@
 </div>
 
 ### 🎨 设计技能
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+  </a>
+</p>
 
 - **UI/UX 设计**: Figma, Adobe XD
 - **图形设计**: Adobe Illustrator, Photoshop
@@ -34,13 +45,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-e50c-4a92-b88b-58605c2fbfb8.png" width="650">
 </div>
 
-
-
-## 📊 GitHub 统计
+## 🔧 我的工作流程
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingfeng11111&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="600">
 </div>
+
+1. **概念构思**: 深入了解项目需求，进行市场和用户研究
+2. **设计规划**: 使用 Figma 创建线框图和原型
+3. **开发实现**: 运用 React、Three.js 等技术栈构建功能
+4. **创意探索**: 通过 TouchDesigner 和 Shader 实现创新视觉效果
+5. **优化完善**: 确保性能和用户体验的最佳平衡
 
 ---
 
