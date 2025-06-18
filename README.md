@@ -9,4 +9,7 @@
     <img src="https://skillicons.dev/icons?i=figma,unity,ai,ps" />
   </a>
 </p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingfeng11111&layout=compact)
+<div>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingfeng11111&layout=compact)
+</div>
+
