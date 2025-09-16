@@ -9,7 +9,7 @@
 ## 🛠️ 技术栈
 <p>
 <img src="https://www.wkhub.com/wp-content/uploads/2018/12/TouchDesigner.png" height="48" />
-<img src="https://skillicons.dev/icons?i=react,vue,ts,js,java,nodejs,threejs,css,sass" />
+<img src="https://skillicons.dev/icons?i=react,vue,ts,js,java,nodejs,threejs,c++,sass" />
 <img src="https://skillicons.dev/icons?i=figma,unity,ai,ps" />
 </p>
 
