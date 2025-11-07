@@ -9,8 +9,8 @@
 ## 🛠️ 技术栈
 <p>
 <img src="https://www.wkhub.com/wp-content/uploads/2018/12/TouchDesigner.png" height="48" />
-<img src="https://skillicons.dev/icons?i=react,vue,ts,js,java,nodejs,threejs,cpp,sass" />
-<img src="https://skillicons.dev/icons?i=figma,unity,ai,ps" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,swift,cpp,react,vue,threejs,sass" />
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingfeng11111&layout=compact)
